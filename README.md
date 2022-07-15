@@ -5,4 +5,4 @@ The **run.m** file is executed first, then the method is selected.  Note that an
 
 The Jacobian pseudo-inverse is the best and gives the most optimal solution while the Jacobian transpose is the fastest among the three methods.
 
-To further understand how work and how the algorithm was developed, go through the PDF document attached.
+To further understand how it works and how the algorithm was developed, go through the PDF document attached.
